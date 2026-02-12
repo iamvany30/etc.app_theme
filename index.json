@@ -3,16 +3,10 @@
     {
       "name": "Blue Dark",
       "version": "1.0.1",
-      "description": "Темная тема в стиле GitHub с синими акцентами.",
+      "description": "Темная тема в стиле GitHub.",
       "author": "iamvany",
-      "file": "BlueDark.css"
-    },
-    {
-      "name": "Simple Light",
-      "version": "1.0.0",
-      "description": "Чистая и минималистичная светлая тема.",
-      "author": "iamvany",
-      "file": "SimpleLight.css"
+      "folderName": "BlueDark",
+      "url": "https://github.com/iamvany30/etc.app_theme/raw/main/zips/BlueDark.zip"
     }
   ]
 }

@@ -1,0 +1,50 @@
+/**
+ * @name Blue Dark
+ * @version 1.0.1
+ * @description Темная тема в стиле GitHub с синими акцентами.
+ * @author iamvany
+ * @file BlueDark.css
+ */
+
+:root, :root[data-bg='dim'], :root[data-bg='black'] {
+    --color-background: #0D1117;
+    --color-card: #0D1117;
+    --color-item-bg: #161B22;
+
+    --color-border: #21262d;
+    --color-border-light: rgba(139, 148, 158, 0.2);
+
+    --color-text: #c9d1d9;
+    --color-text-secondary: #8b949e;
+    --color-text-muted: #6a6f76;
+
+    --color-primary: #58a6ff;
+    
+    --color-input-bg: #010409;
+    --shadow-card: none;
+}
+
+:root[data-bg='light'] {
+    --color-background: #0D1117;
+    --color-card: #0D1117;
+}
+
+::-webkit-scrollbar { 
+    width: 10px; 
+}
+::-webkit-scrollbar-track { 
+    background: var(--color-input-bg); 
+}
+::-webkit-scrollbar-thumb { 
+    background-color: var(--color-border); 
+    border-radius: 5px; 
+}
+::-webkit-scrollbar-thumb:hover { 
+    background-color: var(--color-text-muted); 
+}
+
+.feed-tabs, .notifications-header, .profile-tabs {
+    background-color: rgba(13, 17, 23, 0.8);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}

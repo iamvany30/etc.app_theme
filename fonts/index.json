@@ -1,0 +1,12 @@
+{
+  "fonts": [
+    {
+      "id": "eitai",
+      "type": "text",
+      "name": "Eitai",
+      "format": "otf",
+      "url": "https://raw.githubusercontent.com/iamvany30/etc.app_theme/main/fonts/Eitai.otf",
+      "previewText": "KOT-Eitai"
+    }
+  ]
+}

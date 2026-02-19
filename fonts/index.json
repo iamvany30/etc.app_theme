@@ -7,6 +7,14 @@
       "format": "otf",
       "url": "https://raw.githubusercontent.com/iamvany30/etc.app_theme/main/fonts/Eitai.otf",
       "previewText": "KOT-Eitai"
+    },
+    {
+      "id": "noto_emoji",
+      "type": "emoji",
+      "name": "Google Emoji",
+      "format": "ttf",
+      "url": "https://raw.githubusercontent.com/iamvany30/etc.app_assets/main/fonts/NotoColorEmoji.ttf",
+      "previewText": "🔥🎉👍"
     }
   ]
 }

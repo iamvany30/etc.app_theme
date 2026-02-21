@@ -9,6 +9,14 @@
       "previewText": "KOT-Eitai"
     },
     {
+      "id": "bungee_tint",
+      "type": "text",
+      "name": "BungeeTint",
+      "format": "ttf",
+      "url": "https://raw.githubusercontent.com/iamvany30/etc.app_theme/main/fonts/BungeeTint.ttf",
+      "previewText": "BungeeTint"
+    },
+    {
       "id": "noto_emoji",
       "type": "emoji",
       "name": "Google Emoji",

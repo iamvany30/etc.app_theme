@@ -1,24 +1,24 @@
 {
   "id": "update_v0.9.0",
   "active": true,
-  "type": "info", 
-  "title": "🎉 Крупное обновление!",
-  "message": "Мы добавили поддержку WebSocket для мгновенных уведомлений.\nТеперь сообщения приходят без задержек.\n\nСпасибо, что вы с нами!",
-  "image": "",
+  "type": "party",
+  "title": "🎁 Обновление!",
+  "message": "Встречайте новую версию итд.app! Мы добавили темы оформления, поддержку 4K видео и многое другое.",
+  "image": "https://raw.githubusercontent.com/iamvany30/etc.app/main/showcase.png",
   "rules": {
     "once": true,
-    "minVersion": "0.9.0"
+    "minVersion": "0.9.0",
   },
   "buttons": [
     {
-      "label": "Круто!",
-      "action": "close",
-      "primary": true
+      "label": "Открыть настройки",
+      "action": "navigate",
+      "payload": "/settings"
     },
     {
-      "label": "Список изменений",
-      "action": "link",
-      "url": "https://github.com/iamvany30/etc.app/releases"
+      "label": "Подробнее на GitHub",
+      "action": "external",
+      "payload": "https://github.com/iamvany30/etc.app"
     }
   ]
 }

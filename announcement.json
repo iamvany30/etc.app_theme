@@ -1,0 +1,24 @@
+{
+  "id": "update_v0.9.0",
+  "active": true,
+  "type": "info", 
+  "title": "🎉 Крупное обновление!",
+  "message": "Мы добавили поддержку WebSocket для мгновенных уведомлений.\nТеперь сообщения приходят без задержек.\n\nСпасибо, что вы с нами!",
+  "image": "",
+  "rules": {
+    "once": true,
+    "minVersion": "0.9.0"
+  },
+  "buttons": [
+    {
+      "label": "Круто!",
+      "action": "close",
+      "primary": true
+    },
+    {
+      "label": "Список изменений",
+      "action": "link",
+      "url": "https://github.com/iamvany30/etc.app/releases"
+    }
+  ]
+}

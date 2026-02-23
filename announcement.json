@@ -12,7 +12,7 @@
   "buttons": [
     {
       "label": "Супер!",
-      "action": "close",
+      "action": "close"
     },
     {
       "label": "Подробнее на GitHub",

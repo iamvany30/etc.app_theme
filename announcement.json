@@ -3,21 +3,21 @@
   "active": true,
   "type": "party",
   "title": "🎁 Обновление!",
-  "message": "Реализовали новую функцию 'Захват постов' и обновили дизайн",
+  "message": "Реализовали новую функцию 'Захват постов' и обновили дизайн. Рекомендуется установить напрямую с сайта. ",
   "image": "https://raw.githubusercontent.com/iamvany30/etc.app/main/showcase.png",
   "rules": {
     "once": true,
-    "minVersion": "0.9.5"
+    "minVersion": "0.0.0"
   },
   "buttons": [
     {
-      "label": "Супер!",
+      "label": "Позже",
       "action": "close"
     },
     {
-      "label": "Подробнее на GitHub",
+      "label": "Обновиться",
       "action": "external",
-      "payload": "https://github.com/iamvany30/etc.app"
+      "payload": "https://iamvany30.github.io/etc.app_site/"
     }
   ]
 }

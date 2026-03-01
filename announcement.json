@@ -1,13 +1,13 @@
 {
-  "id": "v0.9.0",
+  "id": "v0.9.5",
   "active": true,
   "type": "party",
   "title": "🎁 Обновление!",
-  "message": "Встречайте новую версию итд.app! Мы добавили обновили дизайн, рисовалку, уведомления и исправили баги!",
+  "message": "Реализовали новую функцию 'Захват постов' и обновили дизайн",
   "image": "https://raw.githubusercontent.com/iamvany30/etc.app/main/showcase.png",
   "rules": {
     "once": true,
-    "minVersion": "0.9.0"
+    "minVersion": "0.9.5"
   },
   "buttons": [
     {

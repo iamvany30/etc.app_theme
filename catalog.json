@@ -1,6 +1,13 @@
 {
-  "themes": [
-  ],
+  "themes": [ ... ],
   "plugins": [
+    {
+      "name": "Colors!",
+      "folderName": "colors",
+      "description": "Будь стильным, будь в цвете!.",
+      "version": "1.0.0",
+      "author": "iamvany",
+      "url": "https://github.com/iamvany30/etc.app_theme/raw/main/downloads/colors.zip"
+    }
   ]
 }

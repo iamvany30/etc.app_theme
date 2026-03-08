@@ -1,23 +1,21 @@
 {
-  "id": "v0.9.5",
+  "id": "march8_greeting",
   "active": true,
-  "type": "party",
-  "title": "🎁 Обновление!",
-  "message": "Реализовали новую функцию 'Захват постов' и обновили дизайн. Рекомендуется установить напрямую с сайта. ",
-  "image": "https://raw.githubusercontent.com/iamvany30/etc.app/main/showcase.png",
+  "type": "gift",
+  "title": "С 8 Марта, прекрасные! 🌷",
+  "message": "Поздравляем с Международным женским днём!\n\nПусть эта весна принесёт море вдохновения, лёгкости и тепла. Желаем, чтобы ваш профиль сиял яркими моментами, а каждый день дарил новые поводы для улыбки.\n\nСияйте! ✨",
+  "image": "https://static.vecteezy.com/system/resources/previews/004/973/760/non_2x/8-march-sale-banner-background-design-template-for-advertising-web-social-media-and-fashion-ads-poster-flyer-greeting-card-header-for-website-free-vector.jpg",
   "rules": {
     "once": true,
-    "minVersion": "0.0.0"
+    "minVersion": "0.0.0",
+    "startAt": "2025-03-07T21:00:00.000Z",
+    "endAt": "2025-03-09T21:00:00.000Z"
   },
   "buttons": [
     {
-      "label": "Позже",
-      "action": "close"
-    },
-    {
-      "label": "Обновиться",
-      "action": "external",
-      "payload": "https://iamvany30.github.io/etc.app_site/"
+      "label": "Спасибо! 💖",
+      "action": "close",
+      "primary": true
     }
   ]
 }

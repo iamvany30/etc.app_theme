@@ -1,19 +1,2 @@
 {
-  "id": "m8",
-  "active": true,
-  "type": "gift",
-  "title": "С 8 Марта, прекрасные! 🌷",
-  "message": "Поздравляем с Международным женским днём!\n\nПусть эта весна принесёт море вдохновения, лёгкости и тепла. Желаем, чтобы ваш профиль сиял яркими моментами, а каждый день дарил новые поводы для улыбки.\n\nСияйте! ✨",
-  "image": "https://static.vecteezy.com/system/resources/previews/004/973/760/non_2x/8-march-sale-banner-background-design-template-for-advertising-web-social-media-and-fashion-ads-poster-flyer-greeting-card-header-for-website-free-vector.jpg",
-  "rules": {
-    "once": true,
-    "minVersion": "0.0.0"
-  },
-  "buttons": [
-    {
-      "label": "Спасибо! 💖",
-      "action": "close",
-      "primary": true
-    }
-  ]
 }
